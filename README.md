@@ -4,7 +4,11 @@
 
 # Hardware
 reference project
+## GitHub
 > [yolox_for_cann](https://github.com/HITSZ-NRSL/yolox_for_cann_atlas200dk).
+
+## Gitee
+> [Ascend](https://gitee.com/ascend).
 
 # Software 
 ## Development
